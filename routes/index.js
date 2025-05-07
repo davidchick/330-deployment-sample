@@ -6,7 +6,7 @@ router.get("/", (req, res, next) => {
   res.send(`
     <html>
       <body>
-        <h1> Hello, world! </h1>
+        <h1> Hello, worldy! </h1>
       </body>
     </html>
   `)
